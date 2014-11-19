@@ -1,0 +1,6 @@
+<!ENTITY prefwindow.title "Qupint - подешавања">
+<!ENTITY stringpref.label "Изаберите пречицу: ктрл+">
+<!ENTITY stringpref.useSel "Користи изабрани текст">
+<!ENTITY stringpref.selBeforeClip "пре садржаја оставе">
+<!ENTITY stringpref.modifier "шифт">
+<!ENTITY stringpref.accesskey "п">

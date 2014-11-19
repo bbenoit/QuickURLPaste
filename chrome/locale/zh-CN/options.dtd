@@ -1,0 +1,6 @@
+<!ENTITY prefwindow.title "Qupint 首选项">
+<!ENTITY stringpref.label "选择快捷键：Ctrl +">
+<!ENTITY stringpref.useSel "优先使用选定的文本">
+<!ENTITY stringpref.selBeforeClip "使用剪贴板中的文本">
+<!ENTITY stringpref.modifier "Shift">
+<!ENTITY stringpref.accesskey "S">

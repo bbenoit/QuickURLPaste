@@ -1,0 +1,21 @@
+#qupint-hello
+{
+  color: red ! important;
+}
+#qupint-toolbar-button
+{
+  list-style-image: url("chrome://qupint/skin/toolbar-button.png");
+  -moz-image-region: rect(0px 24px 24px 0px);
+}
+#qupint-toolbar-button:hover
+{
+  -moz-image-region: rect(24px 24px 48px  0px);
+}
+[iconsize="small"] #qupint-toolbar-button
+{
+  -moz-image-region: rect( 0px 40px 16px 24px);
+}
+[iconsize="small"] #qupint-toolbar-button:hover
+{
+  -moz-image-region: rect(24px 40px 40px 24px);
+}

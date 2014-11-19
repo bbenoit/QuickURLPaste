@@ -1,0 +1,6 @@
+<!ENTITY prefwindow.title "Qupint-Optionen">
+<!ENTITY stringpref.label "Wählen Sie Tastaturkürzel: Ctrl + ">
+<!ENTITY stringpref.useSel "Use the selected text (">
+<!ENTITY stringpref.selBeforeClip "before the clipboard content)">
+<!ENTITY stringpref.modifier "Shift">
+<!ENTITY stringpref.accesskey "T">

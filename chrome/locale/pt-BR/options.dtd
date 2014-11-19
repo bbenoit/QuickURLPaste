@@ -1,0 +1,6 @@
+<!ENTITY prefwindow.title "Opções do Qupint">
+<!ENTITY stringpref.label "Escolha a tecla da atalho: Ctrl +">
+<!ENTITY stringpref.useSel "Use the selected text (">
+<!ENTITY stringpref.selBeforeClip "before the clipboard)">
+<!ENTITY stringpref.modifier "Shift">
+<!ENTITY stringpref.accesskey "E">

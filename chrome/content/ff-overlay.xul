@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://qupint/skin/overlay.css" type="text/css"?>
+<overlay id="qupint-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="ff-overlay.js"/>
+  <window id="main-window" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    <keyset id="qupint_keyset">
+    </keyset>
+    <stringbundleset id="qupint_stringbundleset">
+      <stringbundle id="qupint-strings" src="chrome://qupint/locale/overlay.properties" />
+    </stringbundleset>
+  </window>
+</overlay>

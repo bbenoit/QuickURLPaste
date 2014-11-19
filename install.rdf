@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>qupint@developer.org</em:id>
+    <em:type>2</em:type>
+    <em:name>Qupint</em:name>
+    <em:version>0.6</em:version>
+    <em:creator>benoitb</em:creator>
+    <em:description>Quick URL paste in new tab, with a simple shortcut (default : Ctrl + " ")</em:description>
+    <em:optionsURL>chrome://qupint/content/options.xul</em:optionsURL>
+    <em:iconURL>chrome://qupint/skin/icon.png</em:iconURL>
+
+    <em:translator>ДакСРБИЈА (sr)</em:translator>
+    <em:translator>Mauro José da Silva (pt-BR)</em:translator>
+    <em:translator>Iuliutz (ro-RO)</em:translator>
+    <em:translator>Goofy (sv-SE)</em:translator>
+    <em:translator>Mikael Hiort af Ornäs (sv-SE)</em:translator>
+    <em:translator>Ömer Akın (tr)</em:translator>
+    <em:translator>yfdyh000 (zh-CN)</em:translator>
+    
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- Firefox -->
+        <em:minVersion>3.6</em:minVersion>
+        <em:maxVersion>9.0a2</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>

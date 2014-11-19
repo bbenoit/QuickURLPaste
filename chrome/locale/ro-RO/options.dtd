@@ -1,0 +1,6 @@
+<!ENTITY prefwindow.title "Preferinte Qupint">
+<!ENTITY stringpref.label "Alege litera pentru scurtatura: Ctrl+">
+<!ENTITY stringpref.useSel "Foloseste textul selectat(">
+<!ENTITY stringpref.selBeforeClip "inaintea continutului din clipboard">
+<!ENTITY stringpref.modifier "Shift">
+<!ENTITY stringpref.accesskey "s">

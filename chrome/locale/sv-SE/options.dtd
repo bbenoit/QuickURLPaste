@@ -1,0 +1,6 @@
+<!ENTITY prefwindow.title "Inställningar för Qupint">
+<!ENTITY stringpref.label "Välj kortkommando: Ctrl + ">
+<!ENTITY stringpref.useSel "Använd den markerade texten (">
+<!ENTITY stringpref.selBeforeClip "före innehållet i Urklipp)">
+<!ENTITY stringpref.modifier "Skift">
+<!ENTITY stringpref.accesskey "s">
